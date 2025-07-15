@@ -78,8 +78,6 @@ yarn dev
 
 ---
 
----
-
 ## 📌 Notes
 
 * Make sure both servers are running simultaneously for full functionality.
