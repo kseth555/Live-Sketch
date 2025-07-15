@@ -34,19 +34,21 @@ Ensure the following are installed on your system:
 1. **Clone this repository**
    ```bash
    git clone https://github.com/kseth555/Live-Sketch.git
-````
+
 
 2. **Navigate to the project root folder**
 
    ```bash
    cd Live-Sketch
    ```
+
 3. **Install backend dependencies**
 
    ```bash
    cd backend
    yarn
    ```
+
 4. **Install frontend dependencies**
 
    ```bash
